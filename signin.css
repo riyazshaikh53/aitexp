@@ -1,0 +1,23 @@
+
+header{
+	background:#234;
+	color:#fff;
+	border-bottom:red 3px solid;
+}
+
+
+div #mid{
+    background:url('sign.jpg');
+	background-size:cover;
+	margin:auto;
+	overflow:hidden;
+}
+
+footer{
+	background:#234;
+	color:#fff;
+	border-top:red 3px solid;
+	text-align:center;
+	overflow:hidden;
+	font-size:20px;
+}
