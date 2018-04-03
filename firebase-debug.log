@@ -1,0 +1,25 @@
+[debug] [2018-04-03T16:44:18.436Z] ----------------------------------------------------------------------
+[debug] [2018-04-03T16:44:18.438Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\riyaz\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2018-04-03T16:44:18.438Z] CLI Version:   3.17.4
+[debug] [2018-04-03T16:44:18.438Z] Platform:      win32
+[debug] [2018-04-03T16:44:18.438Z] Node Version:  v8.9.4
+[debug] [2018-04-03T16:44:18.439Z] Time:          Tue Apr 03 2018 22:14:18 GMT+0530 (India Standard Time)
+[debug] [2018-04-03T16:44:18.439Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-04-03T16:44:18.488Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2018-04-03T16:44:18.488Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\riyaz\Desktop\college work\AIT\ait project\public
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
